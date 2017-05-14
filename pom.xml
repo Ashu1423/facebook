@@ -9,6 +9,11 @@
 
   <name>apsrtc</name>
   <url>http://maven.apache.org</url>
+  <scm>
+    <connection>scm:git:https://github.com/Ashu1423/apsrtc.git</connection>
+    <developerConnection>scm:git:https://github.com/Ashu1423/apsrtc.git</developerConnection>
+    <url>https://github.com/Ashu1423/apsrtc.git</url>
+  </scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
